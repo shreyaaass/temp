@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico|Quicksand|Scope+One|Nunito+Sans");
+/** FONTS **/
+/** COLORS **/
+.Nav {
+  border-bottom: solid 1px rgb(227, 227, 227);
+  padding: 1rem;
+}
+
+.Nav__button {
+  font-family: "Nunito Sans", serif;
+  color: rgb(52, 73, 94);
+}/*# sourceMappingURL=Nav.css.map */

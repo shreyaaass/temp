@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico|Quicksand|Scope+One|Nunito+Sans");
+/** FONTS **/
+/** COLORS **/
+.Tag {
+  margin: 0.51rem;
+  border-radius: 0.5rem;
+  padding: 0.2rem 0.61rem;
+  background: rgb(227, 227, 227);
+  color: rgb(52, 73, 94);
+}/*# sourceMappingURL=Tag.css.map */
